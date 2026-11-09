@@ -1,0 +1,261 @@
+{
+ "S": {
+  "Nike": {
+   "n": 20,
+   "ok": 20,
+   "det": 20,
+   "adopt": 1.0,
+   "adopt_ci": [
+    0.8388698745050667,
+    1
+   ],
+   "mean_lenient": 1.0,
+   "mean_strict": 0.375,
+   "strict_full": 0,
+   "plain": 20,
+   "plain_ci": [
+    0.8388698745050667,
+    1
+   ],
+   "group": 20,
+   "strictprev": {
+    "name": 1.0,
+    "brand": 1.0,
+    "description": 1.0,
+    "image": 0.0,
+    "price": 0.0,
+    "priceCurrency": 0.0,
+    "availability": 0.0,
+    "identifier": 0.0
+   },
+   "men": 10,
+   "women": 10,
+   "first_equal": 20,
+   "nodes_med": 16,
+   "bytes_med": 1092046
+  },
+  "Adidas": {
+   "n": 20,
+   "ok": 20,
+   "det": 20,
+   "adopt": 1.0,
+   "adopt_ci": [
+    0.8388698745050667,
+    1
+   ],
+   "mean_lenient": 1.0,
+   "mean_strict": 0.4375,
+   "strict_full": 2,
+   "plain": 0,
+   "plain_ci": [
+    0,
+    0.16113012549493322
+   ],
+   "group": 18,
+   "strictprev": {
+    "name": 1.0,
+    "brand": 1.0,
+    "description": 1.0,
+    "image": 0.1,
+    "price": 0.1,
+    "priceCurrency": 0.1,
+    "availability": 0.1,
+    "identifier": 0.1
+   },
+   "men": 10,
+   "women": 10,
+   "first_equal": 20,
+   "nodes_med": 22,
+   "bytes_med": 877077
+  },
+  "New Balance": {
+   "n": 20,
+   "ok": 20,
+   "det": 20,
+   "adopt": 1.0,
+   "adopt_ci": [
+    0.8388698745050667,
+    1
+   ],
+   "mean_lenient": 1.0,
+   "mean_strict": 0.375,
+   "strict_full": 0,
+   "plain": 0,
+   "plain_ci": [
+    0,
+    0.16113012549493322
+   ],
+   "group": 20,
+   "strictprev": {
+    "name": 1.0,
+    "brand": 1.0,
+    "description": 1.0,
+    "image": 0.0,
+    "price": 0.0,
+    "priceCurrency": 0.0,
+    "availability": 0.0,
+    "identifier": 0.0
+   },
+   "men": 10,
+   "women": 10,
+   "first_equal": 20,
+   "nodes_med": 35,
+   "bytes_med": 602202
+  },
+  "ASICS": {
+   "n": 20,
+   "ok": 20,
+   "det": 20,
+   "adopt": 1.0,
+   "adopt_ci": [
+    0.8388698745050667,
+    1
+   ],
+   "mean_lenient": 1.0,
+   "mean_strict": 1.0,
+   "strict_full": 20,
+   "plain": 20,
+   "plain_ci": [
+    0.8388698745050667,
+    1
+   ],
+   "group": 20,
+   "strictprev": {
+    "name": 1.0,
+    "brand": 1.0,
+    "description": 1.0,
+    "image": 1.0,
+    "price": 1.0,
+    "priceCurrency": 1.0,
+    "availability": 1.0,
+    "identifier": 1.0
+   },
+   "men": 10,
+   "women": 10,
+   "first_equal": 20,
+   "nodes_med": 27,
+   "bytes_med": 2644981
+  },
+  "On": {
+   "n": 20,
+   "ok": 20,
+   "det": 20,
+   "adopt": 1.0,
+   "adopt_ci": [
+    0.8388698745050667,
+    1
+   ],
+   "mean_lenient": 1.0,
+   "mean_strict": 0.375,
+   "strict_full": 0,
+   "plain": 20,
+   "plain_ci": [
+    0.8388698745050667,
+    1
+   ],
+   "group": 20,
+   "strictprev": {
+    "name": 1.0,
+    "brand": 1.0,
+    "description": 1.0,
+    "image": 0.0,
+    "price": 0.0,
+    "priceCurrency": 0.0,
+    "availability": 0.0,
+    "identifier": 0.0
+   },
+   "men": 10,
+   "women": 10,
+   "first_equal": 20,
+   "nodes_med": 6,
+   "bytes_med": 578715
+  },
+  "Under Armour": {
+   "n": 20,
+   "ok": 20,
+   "det": 20,
+   "adopt": 1.0,
+   "adopt_ci": [
+    0.8388698745050667,
+    1
+   ],
+   "mean_lenient": 1.0,
+   "mean_strict": 1.0,
+   "strict_full": 20,
+   "plain": 20,
+   "plain_ci": [
+    0.8388698745050667,
+    1
+   ],
+   "group": 20,
+   "strictprev": {
+    "name": 1.0,
+    "brand": 1.0,
+    "description": 1.0,
+    "image": 1.0,
+    "price": 1.0,
+    "priceCurrency": 1.0,
+    "availability": 1.0,
+    "identifier": 1.0
+   },
+   "men": 10,
+   "women": 10,
+   "first_equal": 20,
+   "nodes_med": 76,
+   "bytes_med": 946977
+  },
+  "All": {
+   "n": 120,
+   "ok": 120,
+   "det": 120,
+   "adopt": 1.0,
+   "adopt_ci": [
+    0.9689797289440706,
+    1
+   ],
+   "mean_lenient": 1.0,
+   "mean_strict": 0.59375,
+   "strict_full": 42,
+   "plain": 80,
+   "plain_ci": [
+    0.5783093452093498,
+    0.744683897772007
+   ],
+   "group": 118,
+   "strictprev": {
+    "name": 1.0,
+    "brand": 1.0,
+    "description": 1.0,
+    "image": 0.35,
+    "price": 0.35,
+    "priceCurrency": 0.35,
+    "availability": 0.35,
+    "identifier": 0.35
+   },
+   "men": 60,
+   "women": 60,
+   "first_equal": 120,
+   "nodes_med": 20,
+   "bytes_med": 891389
+  }
+ },
+ "frame": {
+  "Nike|M": 20,
+  "Nike|W": 17,
+  "Adidas|M": 19,
+  "Adidas|W": 19,
+  "New Balance|M": 10,
+  "New Balance|W": 13,
+  "ASICS|M": 11,
+  "ASICS|W": 11,
+  "On|M": 18,
+  "On|W": 14,
+  "Under Armour|M": 19,
+  "Under Armour|W": 18
+ },
+ "fexcl": {
+  "Adidas|same product code listed in both men and women categories (unisex)": 4,
+  "Adidas|duplicate model (same model, different slug/colour)": 3,
+  "Under Armour|same product code listed in both men and women categories (unisex)": 6
+ }
+}

@@ -1,0 +1,17 @@
+REPEAT SNAPSHOT PROTOCOL (wave 2) - planned for 2-4 weeks after 15 Oct 2026 (target: 5-12 Nov 2026)
+
+Purpose: test whether markup presence, placement and cookieless access are stable over time.
+Use the SAME 120 URLs in sample_manifest.csv (panel design). Do not redraw the sample.
+If a URL now returns 404/redirect, record it as such (do not replace it); report attrition.
+
+Steps
+1. Open each brand's own site in the browser (same browser, same network if possible).
+2. Run browser_collector_reference.js with the 20 URLs of the brand (robots.txt check, >=2.5 s spacing).
+3. Run the cookieless condition (credentials omitted) for the same URLs.
+4. Save raw result lines as raw2/<Brand>.txt, then adapt analyze.py to read raw2 and write audit_120_pages_wave2.csv.
+5. Report: per-brand change in score (variant-aware and top-level), pages whose structure changed
+   (SHA-256 prefix differs is NOT a content change by itself; compare field indicators), status changes
+   in cookieless access (Adidas, New Balance), and any new robots.txt disallow affecting the URLs.
+6. Add Section 4.6 "Stability across two waves" and change Limitations ("single snapshot").
+Also decide beforehand (write it in the file before collecting): productGroupID identifier rule (see manuscript Section 4.5).
+Do not bypass any bot challenge; record it.

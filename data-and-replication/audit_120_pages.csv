@@ -1,0 +1,121 @@
+store_brand,url,gender_stratum,access_status,http_status,html_bytes,jsonld_blocks,product_nodes_incl_variants,product_jsonld_found,f_name,f_brand,f_description,f_image,f_price,f_priceCurrency,f_availability,f_identifier,score_variant_aware,score_first_node,sha256_prefix,top_level_fields,score_top_level_only,has_productgroup,plain_client_access
+Nike,https://www.nike.com/it/t/scarpa-da-running-su-strada-nike-pegasus-42-uomo-M9ckDyR3/IB1873-402,M,ok,200,1107088,2,18,1,1,1,1,1,1,1,1,1,1,1,a942e95dd5,11100000,0.375,1,ok
+Nike,https://www.nike.com/it/t/scarpa-impermeabile-da-running-su-strada-nike-pegasus-42-gore-tex-uomo-wwNioLDU/IQ0450-005,M,ok,200,1003205,1,18,1,1,1,1,1,1,1,1,1,1,1,c20ea6de67,11100000,0.375,1,ok
+Nike,https://www.nike.com/it/t/scarpa-da-running-su-strada-nike-vomero-18-uomo-SMtmxlKz/HM6803-005,M,ok,200,1174492,1,18,1,1,1,1,1,1,1,1,1,1,1,4c2e1c1c98,11100000,0.375,1,ok
+Nike,https://www.nike.com/it/t/scarpa-da-running-su-strada-nike-vomero-plus-run-in-berlin-uomo-ZaR7ZyEh/IU5067-068,M,ok,200,1008252,1,19,1,1,1,1,1,1,1,1,1,1,1,e042590c21,11100000,0.375,1,ok
+Nike,https://www.nike.com/it/t/scarpa-da-gara-su-strada-nike-alphafly-3-run-in-berlin-uomo-KnKE5jwD/IU5065-068,M,ok,200,1010022,1,18,1,1,1,1,1,1,1,1,1,1,1,1bf0d0d06e,11100000,0.375,1,ok
+Nike,https://www.nike.com/it/t/scarpa-da-running-su-strada-nike-structure-plus-uomo-rdhfPpo2/HQ3048-501,M,ok,200,1118140,2,18,1,1,1,1,1,1,1,1,1,1,1,e6182452e5,11100000,0.375,1,ok
+Nike,https://www.nike.com/it/t/scarpa-da-running-su-strada-nike-vomero-premium-uomo-kcNbRx8a/HQ2050-003,M,ok,200,1114350,2,18,1,1,1,1,1,1,1,1,1,1,1,c6b2a3c0d6,11100000,0.375,1,ok
+Nike,https://www.nike.com/it/t/scarpa-da-running-su-strada-nike-vomero-plus-x-distance-uomo-XtKPbubh/IQ7318-100,M,ok,200,1061085,1,16,1,1,1,1,1,1,1,1,1,1,1,b050de1a63,11100000,0.375,1,ok
+Nike,https://www.nike.com/it/t/scarpa-da-running-su-strada-nike-structure-26-uomo-DyK0ML90/HJ1102-008,M,ok,200,1102265,2,18,1,1,1,1,1,1,1,1,1,1,1,20335e2d65,11100000,0.375,1,ok
+Nike,https://www.nike.com/it/t/scarpa-da-running-su-strada-nike-quest-7-uomo-R6dnTZx6/IM6368-004,M,ok,200,974911,1,18,1,1,1,1,1,1,1,1,1,1,1,5079c66f62,11100000,0.375,1,ok
+Nike,https://www.nike.com/it/t/scarpa-da-running-su-strada-nike-quest-7-donna-aQTFQj4L/IM9291-102,W,ok,200,991566,1,13,1,1,1,1,1,1,1,1,1,1,1,fa17a31f1d,11100000,0.375,1,ok
+Nike,https://www.nike.com/it/t/scarpa-da-running-su-strada-nike-zoom-fly-6-donna-9xSBuBQG/FN8455-603,W,ok,200,1045909,1,16,1,1,1,1,1,1,1,1,1,1,1,60e7f47963,11100000,0.375,1,ok
+Nike,https://www.nike.com/it/t/scarpa-da-running-su-strada-nike-zoom-fly-6-donna-mJT9nctg/FN8455-100,W,ok,200,1068302,1,16,1,1,1,1,1,1,1,1,1,1,1,e8ddf484c6,11100000,0.375,1,ok
+Nike,https://www.nike.com/it/t/scarpa-impermeabile-da-running-su-strada-nike-pegasus-42-gore-tex-donna-lk7uZHe4/IQ1085-608,W,ok,200,985625,1,16,1,1,1,1,1,1,1,1,1,1,1,7c74f6d213,11100000,0.375,1,ok
+Nike,https://www.nike.com/it/t/scarpa-da-running-su-strada-nike-structure-plus-donna-ncoiUSp0/HQ3049-102,W,ok,200,1092046,2,16,1,1,1,1,1,1,1,1,1,1,1,e8dac7dcf6,11100000,0.375,1,ok
+Nike,https://www.nike.com/it/t/scarpa-da-running-su-strada-nike-vomero-18-donna-q88GZuLG/HM6804-013,W,ok,200,1114698,2,16,1,1,1,1,1,1,1,1,1,1,1,55272c5b22,11100000,0.375,1,ok
+Nike,https://www.nike.com/it/t/scarpa-da-running-su-strada-nike-vomero-plus-donna-hJ7172Tr/HV8154-013,W,ok,200,1144522,2,16,1,1,1,1,1,1,1,1,1,1,1,5e8b1a091e,11100000,0.375,1,ok
+Nike,https://www.nike.com/it/t/scarpa-impermeabile-da-running-su-strada-con-dettagli-dal-design-rifrangente-nike-vomero-18-gore-tex-donna-QiUtOUCa/HQ7002-004,W,ok,200,1106454,2,16,1,1,1,1,1,1,1,1,1,1,1,c2c8ddea68,11100000,0.375,1,ok
+Nike,https://www.nike.com/it/t/scarpa-da-running-su-strada-nike-pegasus-42-donna-VNFFbZDe/IB1881-601,W,ok,200,1108402,2,15,1,1,1,1,1,1,1,1,1,1,1,c5db37d40a,11100000,0.375,1,ok
+Nike,https://www.nike.com/it/t/scarpa-da-running-su-strada-nike-run-defy-donna-QV95N6vi/HM9593-011,W,ok,200,1035926,1,15,1,1,1,1,1,1,1,1,1,1,1,e8119b1da0,11100000,0.375,1,ok
+Adidas,https://www.adidas.it/scarpe-adizero-adios-pro-5/KJ7040.html,M,ok,200,875080,2,22,1,1,1,1,1,1,1,1,1,1,1,556baf131d,11100000,0.375,1,bot_challenge
+Adidas,https://www.adidas.it/scarpe-da-running-duramo-sl-2/IH8215.html,M,ok,200,943503,2,35,1,1,1,1,1,1,1,1,1,1,1,5e7c97acf9,11100000,0.375,1,bot_challenge
+Adidas,https://www.adidas.it/scarpe-da-corsa-supernova-solution-3/JR7400.html,M,ok,200,858607,2,22,1,1,1,1,1,1,1,1,1,1,1,c5281ba664,11100000,0.375,1,bot_challenge
+Adidas,https://www.adidas.it/scarpe-supernova-ease/IH0796.html,M,ok,200,852390,2,26,1,1,1,1,1,1,1,1,1,1,1,66f3e754e1,11100000,0.375,1,bot_challenge
+Adidas,https://www.adidas.it/scarpe-da-running-galaxy-8/KI7980.html,M,ok,200,915911,2,26,1,1,1,1,1,1,1,1,1,1,1,7a6359b80b,11100000,0.375,1,bot_challenge
+Adidas,https://www.adidas.it/scarpe-adizero-evo-sl/JH6206.html,M,ok,200,943889,2,29,1,1,1,1,1,1,1,1,1,1,1,757277a447,11100000,0.375,1,bot_challenge
+Adidas,https://www.adidas.it/scarpe-da-running-supernova-rise-3/KK1206.html,M,ok,200,981280,2,39,1,1,1,1,1,1,1,1,1,1,1,37474e329e,11100000,0.375,1,bot_challenge
+Adidas,https://www.adidas.it/scarpe-da-running-ultrarun-5/IH2640.html,M,ok,200,877208,2,21,1,1,1,1,1,1,1,1,1,1,1,827d09a485,11100000,0.375,1,bot_challenge
+Adidas,https://www.adidas.it/scarpe-da-running-supernova-glide/KJ4421.html,M,ok,200,899151,2,28,1,1,1,1,1,1,1,1,1,1,1,94e7df177e,11100000,0.375,1,bot_challenge
+Adidas,https://www.adidas.it/scarpe-adizero-evo-sl-exo/KI4764.html,M,ok,200,892750,2,23,1,1,1,1,1,1,1,1,1,1,1,5d37a6d562,11100000,0.375,1,bot_challenge
+Adidas,https://www.adidas.it/scarpe-da-corsa-duramo-rc2/JR3236.html,W,ok,200,877077,2,20,1,1,1,1,1,1,1,1,1,1,1,c77fc8a09f,11100000,0.375,1,bot_challenge
+Adidas,https://www.adidas.it/scarpe-da-running-supernova-rise-2/JQ7697.html,W,ok,200,782526,2,1,1,1,1,1,1,1,1,1,1,1,1,e50378aa6f,11111111,1.0,0,bot_challenge
+Adidas,https://www.adidas.it/scarpe-adizero-distancestar/IF9390.html,W,ok,200,804856,2,1,1,1,1,1,1,1,1,1,1,1,1,ee9dbf9133,11111111,1.0,0,bot_challenge
+Adidas,https://www.adidas.it/adizero-prime-sp-4/JI1212.html,W,ok,200,891389,2,24,1,1,1,1,1,1,1,1,1,1,1,e92bd02edb,11100000,0.375,1,bot_challenge
+Adidas,https://www.adidas.it/scarpe-galaxy-6/GW3847.html,W,ok,200,873571,2,19,1,1,1,1,1,1,1,1,1,1,1,3549410f9c,11100000,0.375,1,bot_challenge
+Adidas,https://www.adidas.it/scarpe-da-running-supernova-glide/KJ1862.html,W,ok,200,920461,2,26,1,1,1,1,1,1,1,1,1,1,1,6699dfa630,11100000,0.375,1,bot_challenge
+Adidas,https://www.adidas.it/scarpe-hyperboost-gtx/KK2023.html,W,ok,200,826877,2,18,1,1,1,1,1,1,1,1,1,1,1,7ac93844a6,11100000,0.375,1,bot_challenge
+Adidas,https://www.adidas.it/scarpe-da-running-supernova-solution-3/JR7396.html,W,ok,200,843722,2,19,1,1,1,1,1,1,1,1,1,1,1,2f737066e1,11100000,0.375,1,bot_challenge
+Adidas,https://www.adidas.it/scarpe-supernova-ease/IF9564.html,W,ok,200,823650,2,18,1,1,1,1,1,1,1,1,1,1,1,0a91cbceea,11100000,0.375,1,bot_challenge
+Adidas,https://www.adidas.it/scarpe-adizero-evo-sl-exo/KJ0435.html,W,ok,200,868834,2,21,1,1,1,1,1,1,1,1,1,1,1,86197a3c8b,11100000,0.375,1,bot_challenge
+New Balance,https://www.newbalance.it/it/pd/fuelcell-rebel-v5/MFCXV5-50690-AUG0.html,M,ok,200,725461,3,151,1,1,1,1,1,1,1,1,1,1,1,a7f0b79c4a,11100000,0.375,1,bot_challenge
+New Balance,https://www.newbalance.it/it/pd/fresh-foam-680-v8-waterproof/M680WV8-51326.html,M,ok,200,549177,3,13,1,1,1,1,1,1,1,1,1,1,1,48648e3791,11100000,0.375,1,bot_challenge
+New Balance,https://www.newbalance.it/it/pd/1080v15-pykrete/M1080V15_RU-FTW-829191.html,M,ok,200,613253,3,54,1,1,1,1,1,1,1,1,1,1,1,6290bc5c88,11100000,0.375,1,bot_challenge
+New Balance,https://www.newbalance.it/it/pd/fresh-foam-x-880v15/M880V15-48603.html,M,ok,200,695775,3,127,1,1,1,1,1,1,1,1,1,1,1,521b81e301,11100000,0.375,1,bot_challenge
+New Balance,https://www.newbalance.it/it/pd/fresh-foam-x-860v14/M860V14-45483.html,M,ok,200,583978,3,27,1,1,1,1,1,1,1,1,1,1,1,6101f1f0fc,11100000,0.375,1,bot_challenge
+New Balance,https://www.newbalance.it/it/pd/fresh-foam-x-860-v15/M860V15_RU-FTW-802888.html,M,ok,200,754657,3,182,1,1,1,1,1,1,1,1,1,1,1,ded4c12e3f,11100000,0.375,1,bot_challenge
+New Balance,https://www.newbalance.it/it/pd/supercomp-rebel-uomo/MREBXV1_RU-FTW-814193.html,M,ok,200,629990,3,55,1,1,1,1,1,1,1,1,1,1,1,f3547ef2bb,11100000,0.375,1,bot_challenge
+New Balance,https://www.newbalance.it/it/pd/fuelcell-supercomp-elite-v5/MRCELV5-50683.html,M,ok,200,581216,3,11,1,1,1,1,1,1,1,1,1,1,1,6e58de0d83,11100000,0.375,1,bot_challenge
+New Balance,https://www.newbalance.it/it/pd/supercomp-elite-v6/MRCELV6_RU-FTW-878314.html,M,ok,200,553155,3,14,1,1,1,1,1,1,1,1,1,1,1,773bfd7b0c,11100000,0.375,1,bot_challenge
+New Balance,https://www.newbalance.it/it/pd/880v15-gore-tex/M880GV15-50385.html,M,ok,200,612222,3,44,1,1,1,1,1,1,1,1,1,1,1,5e3b83f667,11100000,0.375,1,bot_challenge
+New Balance,https://www.newbalance.it/it/pd/fresh-foam-arishi-v4/WARISV4-51303.html,W,ok,200,566687,3,13,1,1,1,1,1,1,1,1,1,1,1,5b703b7585,11100000,0.375,1,bot_challenge
+New Balance,https://www.newbalance.it/it/pd/fuelcell-rebel-v4/WFCXV4-50666.html,W,ok,200,570780,3,2,1,1,1,1,1,1,1,1,1,1,1,e18df9e8a2,11100000,0.375,1,bot_challenge
+New Balance,https://www.newbalance.it/it/pd/1080v15-pykrete/W1080V15_RU-FTW-829189.html,W,ok,200,607780,3,47,1,1,1,1,1,1,1,1,1,1,1,633f1216f0,11100000,0.375,1,bot_challenge
+New Balance,https://www.newbalance.it/it/pd/fuelcell-propel-v5/WFCPRV5-49424.html,W,ok,200,575387,3,11,1,1,1,1,1,1,1,1,1,1,1,ce21568c43,11100000,0.375,1,bot_challenge
+New Balance,https://www.newbalance.it/it/pd/supercomp-elite-v6/WRCELV6_RU-FTW-878315.html,W,ok,200,543083,3,9,1,1,1,1,1,1,1,1,1,1,1,d7fd41aedb,11100000,0.375,1,bot_challenge
+New Balance,https://www.newbalance.it/it/pd/supercomp-rebel-donna/WREBXV1_RU-FTW-814192.html,W,ok,200,605470,3,52,1,1,1,1,1,1,1,1,1,1,1,392d6c49bd,11100000,0.375,1,bot_challenge
+New Balance,https://www.newbalance.it/it/pd/fuelcell-rebel-v5/WFCXV5_RU-FTW-838114.html,W,ok,200,587577,3,27,1,1,1,1,1,1,1,1,1,1,1,257ed21b44,11100000,0.375,1,bot_challenge
+New Balance,https://www.newbalance.it/it/pd/fuelcell-supercomp-trainer-v3/WRCXV4-50692.html,W,ok,200,564982,3,7,1,1,1,1,1,1,1,1,1,1,1,e577e3cd49,11100000,0.375,1,bot_challenge
+New Balance,https://www.newbalance.it/it/pd/fresh-foam-x-more-v6/WMORV6-50400.html,W,ok,200,637586,3,46,1,1,1,1,1,1,1,1,1,1,1,4eb571fb1d,11100000,0.375,1,bot_challenge
+New Balance,https://www.newbalance.it/it/pd/880v15-gore-tex/W880GV15-50386.html,W,ok,200,602202,3,35,1,1,1,1,1,1,1,1,1,1,1,7a95fe48e7,11100000,0.375,1,bot_challenge
+ASICS,https://www.asics.com/it/it-it/sonicblast-2/p/1011C244-100.html,M,ok,200,2624691,2,21,1,1,1,1,1,1,1,1,1,1,1,ef4f54d5c8,11111111,1.0,1,ok
+ASICS,https://www.asics.com/it/it-it/gel-nimbus--28/p/1011C127-102.html,M,ok,200,2664489,2,35,1,1,1,1,1,1,1,1,1,1,1,e03006732f,11111111,1.0,1,ok
+ASICS,https://www.asics.com/it/it-it/gel-nimbus--28-wide/p/1011C144-002.html,M,ok,200,2632867,2,21,1,1,1,1,1,1,1,1,1,1,1,7aa3f57157,11111111,1.0,1,ok
+ASICS,https://www.asics.com/it/it-it/gt-2000-15/p/1011C235-800.html,M,ok,200,2648832,2,30,1,1,1,1,1,1,1,1,1,1,1,7f7fc0b393,11111111,1.0,1,ok
+ASICS,https://www.asics.com/it/it-it/gel-excite-11/p/1011C080-405.html,M,ok,200,2644981,2,29,1,1,1,1,1,1,1,1,1,1,1,92a70441d2,11111111,1.0,1,ok
+ASICS,https://www.asics.com/it/it-it/gel-pulse-17/p/1011C153-403.html,M,ok,200,2639102,2,27,1,1,1,1,1,1,1,1,1,1,1,455964f546,11111111,1.0,1,ok
+ASICS,https://www.asics.com/it/it-it/noosa-tri-16/p/1011B872-404.html,M,ok,200,2667993,2,25,1,1,1,1,1,1,1,1,1,1,1,1a7e3587ca,11111111,1.0,1,ok
+ASICS,https://www.asics.com/it/it-it/gel-cumulus--28/p/1011C143-101.html,M,ok,200,2666583,2,36,1,1,1,1,1,1,1,1,1,1,1,8d6b6f7edd,11111111,1.0,1,ok
+ASICS,https://www.asics.com/it/it-it/versablast-4/p/1011B984-005.html,M,ok,200,2631791,2,22,1,1,1,1,1,1,1,1,1,1,1,6a3eea29b0,11111111,1.0,1,ok
+ASICS,https://www.asics.com/it/it-it/novablast-6/p/1011C243-102.html,M,ok,200,2647302,2,28,1,1,1,1,1,1,1,1,1,1,1,bf3369704d,11111111,1.0,1,ok
+ASICS,https://www.asics.com/it/it-it/gel-cumulus--28/p/1012B916-103.html,W,ok,200,2656283,2,31,1,1,1,1,1,1,1,1,1,1,1,ae2051fb31,11111111,1.0,1,ok
+ASICS,https://www.asics.com/it/it-it/gel-pulse--17/p/1012B930-250.html,W,ok,200,2636022,2,25,1,1,1,1,1,1,1,1,1,1,1,9fc4e82ef4,11111111,1.0,1,ok
+ASICS,https://www.asics.com/it/it-it/novablast-6/p/1012C008-102.html,W,ok,200,2646073,2,27,1,1,1,1,1,1,1,1,1,1,1,c0027c70a8,11111111,1.0,1,ok
+ASICS,https://www.asics.com/it/it-it/gel-nimbus-28-x-nadia-battocletti/p/1012C055-100.html,W,ok,200,2629672,2,19,1,1,1,1,1,1,1,1,1,1,1,5768a9f471,11111111,1.0,1,ok
+ASICS,https://www.asics.com/it/it-it/sonicblast-2/p/1012C009-100.html,W,ok,200,2621018,2,19,1,1,1,1,1,1,1,1,1,1,1,d81c9baeb5,11111111,1.0,1,ok
+ASICS,https://www.asics.com/it/it-it/gel-cumulus-27-gtx/p/1012B834-020.html,W,ok,200,2640048,2,17,1,1,1,1,1,1,1,1,1,1,1,42a5e19a18,11111111,1.0,1,ok
+ASICS,https://www.asics.com/it/it-it/gel-kayano-33/p/1012B939-101.html,W,ok,200,2646144,2,27,1,1,1,1,1,1,1,1,1,1,1,c95cee5821,11111111,1.0,1,ok
+ASICS,https://www.asics.com/it/it-it/gel-nimbus--28/p/1012B899-002.html,W,ok,200,2663668,2,34,1,1,1,1,1,1,1,1,1,1,1,f7eee1aadd,11111111,1.0,1,ok
+ASICS,https://www.asics.com/it/it-it/gt-2000-15/p/1012B998-700.html,W,ok,200,2639963,2,26,1,1,1,1,1,1,1,1,1,1,1,3d3ba6b865,11111111,1.0,1,ok
+ASICS,https://www.asics.com/it/it-it/versablast-4/p/1012B775-503.html,W,ok,200,2627612,2,20,1,1,1,1,1,1,1,1,1,1,1,2449cb3c2d,11111111,1.0,1,ok
+On,https://www.on.com/it-it/products/cloudrunner-3-m-3mg1007/mens/agave-black-shoes-3MG10075016,M,ok,200,671085,1,10,1,1,1,1,1,1,1,1,1,1,1,e8444fa481,11100000,0.375,1,ok
+On,https://www.on.com/it-it/products/cloudmonster-3-m-3mg1005/mens/rock-silver-shoes-3MG10054857,M,ok,200,767934,1,14,1,1,1,1,1,1,1,1,1,1,1,9dd2e2bcf7,11100000,0.375,1,ok
+On,https://www.on.com/it-it/products/cloudboom-max-m-3mf3031/mens/white-flurry-shoes-3MF30315187,M,ok,200,578715,1,5,1,1,1,1,1,1,1,1,1,1,1,9c08d425e0,11100000,0.375,1,ok
+On,https://www.on.com/it-it/products/cloudrunner-3-max-ln1-m-3mg3114/mens/fresco-gild-shoes-3MG31146224,M,ok,200,483975,1,2,1,1,1,1,1,1,1,1,1,1,1,e3161a451d,11100000,0.375,1,ok
+On,https://www.on.com/it-it/products/cloudsurfer-max-m-3mf3043/mens/saffron-squash-shoes-3MF30435168,M,ok,200,748498,1,11,1,1,1,1,1,1,1,1,1,1,1,2105b31838,11100000,0.375,1,ok
+On,https://www.on.com/it-it/products/cloudmonster-1-m-3mf3074/mens/black-shoes-3MF30740553,M,ok,200,649199,1,10,1,1,1,1,1,1,1,1,1,1,1,91f6168c8a,11100000,0.375,1,ok
+On,https://www.on.com/it-it/products/cloudboom-volt-m-3mf3098/mens/celeste-isle-shoes-3MF30985531,M,ok,200,545682,1,5,1,1,1,1,1,1,1,1,1,1,1,8a386ae0cd,11100000,0.375,1,ok
+On,https://www.on.com/it-it/products/cloudflow-5-m-3mf1011/mens/alloy-rock-shoes-3MF10113295,M,ok,200,592592,1,6,1,1,1,1,1,1,1,1,1,1,1,3967e4b508,11100000,0.375,1,ok
+On,https://www.on.com/it-it/products/cloudmonster-3-wide-m-3mg1093/mens/brook-flurry-shoes-3MG10935256,M,ok,200,549393,1,4,1,1,1,1,1,1,1,1,1,1,1,02597e5bea,11100000,0.375,1,ok
+On,https://www.on.com/it-it/products/cloudrunner-3-wide-m-3mg1009/mens/ghost-verdite-shoes-3MG10095248,M,ok,200,534067,1,4,1,1,1,1,1,1,1,1,1,1,1,75b879ed4e,11100000,0.375,1,ok
+On,https://www.on.com/it-it/products/cloudrunner-3-w-3wg1005/womens/squash-saffron-shoes-3WG10055156,W,ok,200,673111,1,10,1,1,1,1,1,1,1,1,1,1,1,1b99a723cd,11100000,0.375,1,ok
+On,https://www.on.com/it-it/products/cloudrunner-3-max-ln1-w-3wg3104/womens/fresco-gild-shoes-3WG31046224,W,ok,200,483443,1,2,1,1,1,1,1,1,1,1,1,1,1,0ab8bf2be6,11100000,0.375,1,ok
+On,https://www.on.com/it-it/products/cloudmonster-3-w-3wg1003/womens/brook-flurry-shoes-3WG10035256,W,ok,200,761000,1,13,1,1,1,1,1,1,1,1,1,1,1,d92d5e4ddd,11100000,0.375,1,ok
+On,https://www.on.com/it-it/products/cloudmonster-3-hyper-3wg1004/womens/ivory-flurry-shoes-3WG10045262,W,ok,200,554770,1,5,1,1,1,1,1,1,1,1,1,1,1,9bde3c71e8,11100000,0.375,1,ok
+On,https://www.on.com/it-it/products/cloudrunner-3-wide-w-3wg1007/womens/ghost-verdite-shoes-3WG10075248,W,ok,200,529697,1,4,1,1,1,1,1,1,1,1,1,1,1,cf34e0efcf,11100000,0.375,1,ok
+On,https://www.on.com/it-it/products/cloudflow-5-w-3wf1009/womens/flurry-wash-shoes-3WF10094946,W,ok,200,590320,1,6,1,1,1,1,1,1,1,1,1,1,1,79309b7374,11100000,0.375,1,ok
+On,https://www.on.com/it-it/products/cloudsurfer-2-3wf1010/womens/surf-flurry-shoes-3WF10105063,W,ok,200,672767,1,7,1,1,1,1,1,1,1,1,1,1,1,180f844843,11100000,0.375,1,ok
+On,https://www.on.com/it-it/products/cloudmonster-3-wide-w-3wg1083/womens/frost-ivory-shoes-3WG10835236,W,ok,200,550450,1,4,1,1,1,1,1,1,1,1,1,1,1,18ce6421ae,11100000,0.375,1,ok
+On,https://www.on.com/it-it/products/cloudboom-max-w-3wf3018/womens/white-celeste-shoes-3WF30185109,W,ok,200,573000,1,6,1,1,1,1,1,1,1,1,1,1,1,73b8135571,11100000,0.375,1,ok
+On,https://www.on.com/it-it/products/cloudrunner-3-wp-w-3wg1008/womens/pollen-haze-shoes-3WG10086044,W,ok,200,513692,1,3,1,1,1,1,1,1,1,1,1,1,1,de59720bdc,11100000,0.375,1,ok
+Under Armour,https://www.underarmour.it/it-it/p/ua-halo-racer/6007639.html,M,ok,200,1180505,3,128,1,1,1,1,1,1,1,1,1,1,1,1ab11667e1,11111111,1.0,1,ok
+Under Armour,https://www.underarmour.it/it-it/p/ua-surge-4/3027000.html,M,ok,200,977853,3,91,1,1,1,1,1,1,1,1,1,1,1,dfdd061ed4,11111111,1.0,1,ok
+Under Armour,https://www.underarmour.it/it-it/p/ua-turbulence-3/6006717.html,M,ok,200,985425,3,91,1,1,1,1,1,1,1,1,1,1,1,b5d94e5adf,11111111,1.0,1,ok
+Under Armour,https://www.underarmour.it/it-it/p/ua-velociti-spd/6000007.html,M,ok,200,1055785,3,106,1,1,1,1,1,1,1,1,1,1,1,1b7c093450,11111111,1.0,1,ok
+Under Armour,https://www.underarmour.it/it-it/p/ua-turbulence-3-storm/6017378.html,M,ok,200,828051,3,31,1,1,1,1,1,1,1,1,1,1,1,0f01b8888e,11111111,1.0,1,ok
+Under Armour,https://www.underarmour.it/it-it/p/ua-velociti-distance/6006030.html,M,ok,200,1168455,3,123,1,1,1,1,1,1,1,1,1,1,1,8fd04c9568,11111111,1.0,1,ok
+Under Armour,https://www.underarmour.it/it-it/p/ua-charged%2B-chase/6014417.html,M,ok,200,869508,3,46,1,1,1,1,1,1,1,1,1,1,1,00c4484e9b,11111111,1.0,1,ok
+Under Armour,https://www.underarmour.it/it-it/p/ua-hb-runner-2/6010212.html,M,ok,200,946977,3,76,1,1,1,1,1,1,1,1,1,1,1,fe49993dd2,11111111,1.0,1,ok
+Under Armour,https://www.underarmour.it/it-it/p/ua-halo-runner/6013164.html,M,ok,200,817851,3,16,1,1,1,1,1,1,1,1,1,1,1,845ec94c98,11111111,1.0,1,ok
+Under Armour,https://www.underarmour.it/it-it/p/ua-rogue-5/3028256.html,M,ok,200,858226,3,31,1,1,1,1,1,1,1,1,1,1,1,afee4f917a,11111111,1.0,1,ok
+Under Armour,https://www.underarmour.it/it-it/p/ua-charged%2B-chase/6014418.html,W,ok,200,854598,3,43,1,1,1,1,1,1,1,1,1,1,1,e541b6124a,11111111,1.0,1,ok
+Under Armour,https://www.underarmour.it/it-it/p/ua-velociti-spd/6000017.html,W,ok,200,1022182,3,99,1,1,1,1,1,1,1,1,1,1,1,9ea20136ae,11111111,1.0,1,ok
+Under Armour,https://www.underarmour.it/it-it/p/ua-halo-racer-2/6010216.html,W,ok,200,828744,3,29,1,1,1,1,1,1,1,1,1,1,1,b5f8c6dd36,11111111,1.0,1,ok
+Under Armour,https://www.underarmour.it/it-it/p/ua-pursuit-4/3028261.html,W,ok,200,895562,3,54,1,1,1,1,1,1,1,1,1,1,1,85a961bf09,11111111,1.0,1,ok
+Under Armour,https://www.underarmour.it/it-it/p/ua-velociti-pace/6009108.html,W,ok,200,1022681,3,99,1,1,1,1,1,1,1,1,1,1,1,19550f58c2,11111111,1.0,1,ok
+Under Armour,https://www.underarmour.it/it-it/p/ua-rogue-6/6006720.html,W,ok,200,897291,3,57,1,1,1,1,1,1,1,1,1,1,1,122cc502a0,11111111,1.0,1,ok
+Under Armour,https://www.underarmour.it/it-it/p/ua-charged%2B-assert-11/6006724.html,W,ok,200,874494,3,43,1,1,1,1,1,1,1,1,1,1,1,a857d8b190,11111111,1.0,1,ok
+Under Armour,https://www.underarmour.it/it-it/p/ua-velociti-distance/6006031.html,W,ok,200,1115140,3,99,1,1,1,1,1,1,1,1,1,1,1,1507fd5e23,11111111,1.0,1,ok
+Under Armour,https://www.underarmour.it/it-it/p/ua-turbulence-3/6006718.html,W,ok,200,960271,3,85,1,1,1,1,1,1,1,1,1,1,1,3e38a7c621,11111111,1.0,1,ok
+Under Armour,https://www.underarmour.it/it-it/p/ua-pursuit-4-big-logo/6000598.html,W,ok,200,806351,3,15,1,1,1,1,1,1,1,1,1,1,1,77e2e30887,11111111,1.0,1,ok
